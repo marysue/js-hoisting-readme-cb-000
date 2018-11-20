@@ -14,7 +14,7 @@ function crazy() {
   }
 
   // fix the code in here:
-  //this call to the function must follow the assignment.  
+  //this call to the function must follow the assignment.
   //despite the var declaration being hoisted (var thisIsCrazy())
   //the assignment is not hoisted.  So calling thisIsCrazy(); before
   //it is assigned won't work
